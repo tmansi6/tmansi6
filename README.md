@@ -25,7 +25,7 @@
 
 ### **🗄️ Databases & Cloud**  
 <img src="https://cdn.clever-cloud.com/uploads/2023/03/mysql.svg" alt="My Image" width="100" height="100">         <img src="https://schwabencode.com/contents/logos/mssql-server.png" alt="My Image" width="100" height="100">              
-<img src="https://www.securecloudaas.com/wp-content/uploads/2021/03/azure_logo_794_new.png" alt="My Image" width="100" height="100">
+
 
 
 
